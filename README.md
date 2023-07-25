@@ -1,6 +1,7 @@
 # My-Third-Excel-data-analysis-project
 ## Introduction
 This project involves advance functions calculations in excel from previous large data set used in project 2
+
 ## Aim of Project
 To be able to calculate using the sales data the following
 - The average revenue generated from each sale of ‘Paseo’
@@ -8,6 +9,7 @@ To be able to calculate using the sales data the following
 - The total revenue generated from the sales of ‘Montana’ in Canada
 - In which Country, Segment and Month was the highest unit of goods sold?
 - What is the total profit made in December?
+To put to test most advanced calculation used in analysing large data
 
 # Procedure
 To get this values extracted from the large data set, the following advanced calculations will be employed. They include **VLOOKUP**,**SUMIF**, **SUMIFS** and **AVERAGEIF**
