@@ -25,7 +25,7 @@ To get this values extracted from the large data set, the following advanced cal
 5. For total profit made in december, we employ the SUMIF function on the month column, against the profit column, to give  **$2,717,329.98**
 
 # CONCLUSION
-I was able to combine basic and advanced function in analysing my data
+I was able to combine basic and advanced function in analysing my data. I also saw the importance of creating a sub-table where data analysed from the larger table can be kept for reference. This made my job easier and neat 
 
 
 
